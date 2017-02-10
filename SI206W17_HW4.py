@@ -123,26 +123,7 @@ for x in range(len(name_list)):
 
 
 
-#for x in range(len(name_list)):
-	#if x not in umsi_titles:
-		#umsi_titles={name_list[x]: description_list[x]}
-
-
-
-
-
-
-
-
-#for field field-name-title field in soup.find_all(class_="field_item_even" property= "dc:title"): 
-    #if story_heading.a: 
-        #umsi_titles.append(story_heading.a.text.replace("\n", " ").strip())
-    #else: 
-        #story_heading.contents[0].strip())
-        
-
-
-
+       
 
 ## It may be helpful to translate the following from English to code:
 
